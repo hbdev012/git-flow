@@ -23,8 +23,8 @@ Gem::Specification.new do |s|
   s.add_dependency 'grit', '~> 2.3.0'
   s.add_dependency 'thor', '~> 0.14.2'
 
-  s.add_development_depedency 'bundler', '~> 1.0.0'
-  s.add_development_depedency 'rspec', '~> 2.0.0'
-  s.add_development_depedency 'cucumber', '~> 0.9.0'
-  s.add_development_depedency 'aruba'
+  s.add_development_dependency 'bundler', '~> 1.0.0'
+  s.add_development_dependency 'rspec', '~> 2.0.0'
+  s.add_development_dependency 'cucumber', '~> 0.9.0'
+  s.add_development_dependency 'aruba'
 end
