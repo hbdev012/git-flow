@@ -6,5 +6,5 @@ and easy to modify/improve.
 
 ## Installation
 
-  sudo gem install git-flow
+  `sudo gem install git-flow`
 
