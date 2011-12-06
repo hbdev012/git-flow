@@ -1,10 +1,5 @@
-# git-flow
+# git-flow (Project Placeholder Only!)
 
-A Ruby-inspired rewrite of _nvie's_ [gitflow](http://github.com/nvie/gitflow) git extensions. Updated
-to provide support for remote commits and provide a platform that's easier to distribute, fully tested
-and easy to modify/improve.
+A planned Ruby-inspired rewrite of _nvie's_ [gitflow](http://github.com/nvie/gitflow) git extensions.
 
-## Installation
-
-    $ sudo gem install git-flow
-
+Please use the original gitflow project, until I can find the time to work on the Ruby gem rewrite.
